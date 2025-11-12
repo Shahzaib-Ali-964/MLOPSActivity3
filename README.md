@@ -14,7 +14,7 @@ By the end of this activity, you will be able to:
 - Upload trained model artifacts automatically  
 - (Optionally) Build and push Docker containers after successful training  
 
----
+--- this is my version Shahzaib Ali 964
 
 ## 🧩 Repository Structure
 
